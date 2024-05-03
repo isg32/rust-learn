@@ -4,8 +4,8 @@
 ```
 cargo build <projectname>
 ```
-|-edit main file
-|--/projectname/src/main.rs
+> edit main file 
+| /projectname/src/main.rs
 
 ## Build and run project
 ```
